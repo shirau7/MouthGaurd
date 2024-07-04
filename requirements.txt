@@ -1,0 +1,10 @@
+streamlit
+mysql-connector-python
+python-dotenv
+Pillow
+tensorflow
+pandas
+numpy
+requests
+pycountry
+plotly
